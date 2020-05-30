@@ -1,4 +1,4 @@
-# Java Pub-Sub based Message-oriented Middleware
+# Java Pub-Sub based Message queue
 ---
 This is my attempt at fundamentally understanding the design of Publisher-Subscriber model and Message-Oriented Middlewares. 
 This implementation utilized asynchronous message passing via message queue. The Publisher and Subscriber objects are loosely coupled
