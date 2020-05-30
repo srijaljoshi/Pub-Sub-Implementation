@@ -5,6 +5,6 @@ This implementation utilized asynchronous message passing via message queue. The
 and have no knowledge about the existence of one another. 
 
 To keep things simple, the objects that I used are Publisher, Subscriber, Topic, MessageBroker, and Message. 
-I read wiki on [Publishe-Subscribe pattern](https://en.wikipedia.org/wiki/Publish–subscribe_pattern) to help me implement this idea.
+I read wiki on [Publish-Subscribe pattern](https://en.wikipedia.org/wiki/Publish–subscribe_pattern) to help me implement this idea.
 
   
